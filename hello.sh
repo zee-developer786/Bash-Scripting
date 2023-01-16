@@ -1,4 +1,13 @@
-# To tell which shell will execute this file
 #! /bin/bash
+# 2- using Variables and Comments
+# Two types of Variables
+   # 1: System Variables ,Mostly Start with Capital Letters
+echo "Hello World"
+echo Our Shell NAme is $BASH 
+echo Our Shell Version is $BASH_VERSION 
+echo Our Home Directry $HOME 
+echo Our Pressent Working Directry $PWD 
 
-echo "Hello World" # To print something on screen
+# USer Defined Variables
+name=MARDAN
+echo local Variable $name
