@@ -8,6 +8,6 @@ echo Our Shell Version is $BASH_VERSION
 echo Our Home Directry $HOME 
 echo Our Pressent Working Directry $PWD 
 
-# USer Defined Variables
+# USer Defined Variabless
 name=MARDAN
 echo local Variable $name
